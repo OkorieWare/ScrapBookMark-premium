@@ -1,5 +1,7 @@
 # ScrapBookMark-premium
 
+ - **UNLISTED until further notice, due to DNS issues.**
+
 OkorieWare ™ ScrapBookMark is an offline webpage archiver, in the spirit of the former ScrapBook Plus by haselnuss.
 
  - Windows
