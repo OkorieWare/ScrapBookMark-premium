@@ -1,6 +1,6 @@
 # ScrapBookMark-premium
 
- - **UNLISTED until further notice, due to DNS issues.**
+ - **UNLISTED until further notice... while prospecting for a new domain name.**
 
 OkorieWare ™ ScrapBookMark is an offline webpage archiver, in the spirit of the former ScrapBook Plus by haselnuss.
 
